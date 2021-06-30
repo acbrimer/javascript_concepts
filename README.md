@@ -20,3 +20,14 @@ If you have not already, I highly reccomend you take some time to pop open your 
 
 * All scripts included in this repo can be run by opening your browser console, copying, pasting, and hitting enter
 _Note:_ Where indicated, scripts need to be run from Holberton intranet project pages
+
+## Files:
+- fix-failed-checks.js
+- fix-failed-checks-no-jquery.js
+- log-keydown-event.js
+- log-arrow-keys.js
+- arrow-keys-position.js
+- floating-seahorse.js
+- swimming-seahorse.js
+- alert-me.js
+- making-promises.js
